@@ -5,7 +5,7 @@
         "src": "ics_logo_512x512.png",
         "sizes": "512x512"
       }],
-  "start_url": "/index.html",
+  "start_url": "https://makky777.github.io/GCMtest/",
   //"start_url": "http://localhost:8000",
   "display": "standalone",
   "gcm_sender_id": "396956428949"
